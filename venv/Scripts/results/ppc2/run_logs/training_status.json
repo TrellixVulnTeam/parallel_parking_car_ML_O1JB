@@ -1,0 +1,65 @@
+{
+    "ppc": {
+        "checkpoints": [
+            {
+                "steps": 2499954,
+                "file_path": "results\\ppc2\\ppc\\ppc-2499954.onnx",
+                "reward": -6.8971904292702675,
+                "creation_time": 1638735290.9178064,
+                "auxillary_file_paths": [
+                    "results\\ppc2\\ppc\\ppc-2499954.pt"
+                ]
+            },
+            {
+                "steps": 2999948,
+                "file_path": "results\\ppc2\\ppc\\ppc-2999948.onnx",
+                "reward": -6.865014777264812,
+                "creation_time": 1638736088.6322298,
+                "auxillary_file_paths": [
+                    "results\\ppc2\\ppc\\ppc-2999948.pt"
+                ]
+            },
+            {
+                "steps": 3499957,
+                "file_path": "results\\ppc2\\ppc\\ppc-3499957.onnx",
+                "reward": -5.877569778373948,
+                "creation_time": 1638736905.4781528,
+                "auxillary_file_paths": [
+                    "results\\ppc2\\ppc\\ppc-3499957.pt"
+                ]
+            },
+            {
+                "steps": 3999945,
+                "file_path": "results\\ppc2\\ppc\\ppc-3999945.onnx",
+                "reward": -6.9024781715124846,
+                "creation_time": 1638737721.9918902,
+                "auxillary_file_paths": [
+                    "results\\ppc2\\ppc\\ppc-3999945.pt"
+                ]
+            },
+            {
+                "steps": 4000009,
+                "file_path": "results\\ppc2\\ppc\\ppc-4000009.onnx",
+                "reward": -6.9024781715124846,
+                "creation_time": 1638737722.076664,
+                "auxillary_file_paths": [
+                    "results\\ppc2\\ppc\\ppc-4000009.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000009,
+            "file_path": "results\\ppc2\\ppc.onnx",
+            "reward": -6.9024781715124846,
+            "creation_time": 1638737722.076664,
+            "auxillary_file_paths": [
+                "results\\ppc2\\ppc\\ppc-4000009.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

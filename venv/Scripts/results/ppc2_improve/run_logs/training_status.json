@@ -1,0 +1,65 @@
+{
+    "ppc": {
+        "checkpoints": [
+            {
+                "steps": 2499982,
+                "file_path": "results\\ppc2_improve\\ppc\\ppc-2499982.onnx",
+                "reward": -7.243704855442047,
+                "creation_time": 1638742864.1466675,
+                "auxillary_file_paths": [
+                    "results\\ppc2_improve\\ppc\\ppc-2499982.pt"
+                ]
+            },
+            {
+                "steps": 2999943,
+                "file_path": "results\\ppc2_improve\\ppc\\ppc-2999943.onnx",
+                "reward": -8.826753382881483,
+                "creation_time": 1638743630.170039,
+                "auxillary_file_paths": [
+                    "results\\ppc2_improve\\ppc\\ppc-2999943.pt"
+                ]
+            },
+            {
+                "steps": 3499988,
+                "file_path": "results\\ppc2_improve\\ppc\\ppc-3499988.onnx",
+                "reward": -4.345342620213827,
+                "creation_time": 1638744396.5998967,
+                "auxillary_file_paths": [
+                    "results\\ppc2_improve\\ppc\\ppc-3499988.pt"
+                ]
+            },
+            {
+                "steps": 3999999,
+                "file_path": "results\\ppc2_improve\\ppc\\ppc-3999999.onnx",
+                "reward": -5.103334677279801,
+                "creation_time": 1638745157.0327187,
+                "auxillary_file_paths": [
+                    "results\\ppc2_improve\\ppc\\ppc-3999999.pt"
+                ]
+            },
+            {
+                "steps": 4000009,
+                "file_path": "results\\ppc2_improve\\ppc\\ppc-4000009.onnx",
+                "reward": -5.121169897482583,
+                "creation_time": 1638745157.108516,
+                "auxillary_file_paths": [
+                    "results\\ppc2_improve\\ppc\\ppc-4000009.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000009,
+            "file_path": "results\\ppc2_improve\\ppc.onnx",
+            "reward": -5.121169897482583,
+            "creation_time": 1638745157.108516,
+            "auxillary_file_paths": [
+                "results\\ppc2_improve\\ppc\\ppc-4000009.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
